@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import HomePage from '../components/HomePage'
-import TextData from '../components/TextData'
+import TextData from '../components/unVisual/TextData'
 
 // in approutes we create a route to go through
 

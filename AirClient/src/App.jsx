@@ -4,7 +4,7 @@ import GetDataContext from './context/getDataContext'
 
 const App = () => {
 
-  const [data, setData] = useState(0)
+  const [data, setData] = useState({})
 //use the context and provide the data that contains the details
   return (
     <>
